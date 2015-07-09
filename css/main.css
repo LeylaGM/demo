@@ -204,6 +204,7 @@ dd.small {
 	position: absolute;
 	top: 0;
 	left: 0;
+	z-index: 9999;
 	width: 100%;
 }
 .logo-site {
@@ -505,7 +506,7 @@ div.title-matilda h2 {
 	right: 0;
 	padding-right: 7%;
 	position: fixed;
-	z-index: 9999;
+	z-index: 999;
 }
 
 /* -------------------------------------- */
